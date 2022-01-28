@@ -1,25 +1,30 @@
 {
-  "name": "bootstrap-avatars",
-  "version": "1.0.4",
-  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
-  "main": "profile.html",
+  "name": "bootstrap-credit-card-form",
+  "version": "1.0.0",
+  "description": "Responsive Credit Card Form built with the latest Bootstrap 5. Component to be used in eCommerce projects and checkout pages.",
+  "main": "basic.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-avatars.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-credit-card-form.git"
   },
   "keywords": [
     "bootstrap",
-    "avatar",
+    "forms",
     "bootstrap5",
-    "circle-image-view"
+    "resnponsive",
+    "checkbox",
+    "form",
+    "credit-card",
+    "payments",
+    "reposnive-design"
   ],
   "author": "mdbootstrap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdbootstrap/bootstrap-avatars/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-credit-card-form/issues"
   },
-  "homepage": "https://mdbootstrap.com/docs/standard/extended/avatar/"
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/credit-card/"
 }
